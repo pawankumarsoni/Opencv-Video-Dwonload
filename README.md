@@ -12,8 +12,8 @@ Capture the video
 If video not capture may be your camera not working will show the error .
 
 To write the video in your local directory use VideoWriter 
-
-  out=cv2.VideoWriter('myvideo.avi',cv2.VideoWriter_fourcc('M','J','P','G'),10,(640,480))
+      
+      out=cv2.VideoWriter('myvideo.avi',cv2.VideoWriter_fourcc('M','J','P','G'),10,(640,480))
 
 Captuer the video 
 
